@@ -1,0 +1,15 @@
+--1
+Rel XPath
+//*[@id="logo"]/a[1]/img
+Abs XPath
+/html/body/div[1]/div[1]/header/div/div[1]/div[1]/a[1]/img
+--2
+Rel XPath
+//*[@id="search-btn"]/i
+Abs XPath
+/html/body/div[1]/div[1]/header/div/div[1]/div[2]/div/a/i
+--3
+Rel XPath
+//*[@id="slide-29-layer-4"]
+Abs XPath
+/html/body/div[1]/div[4]/div/div[1]/div/div/div/div/div[1]/div/ul/li/div[4]/div/div/a

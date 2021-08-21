@@ -1,0 +1,15 @@
+List of incorrect names: (which are meaning words in Germany)
+people:
+Erste Geschäftsführer
+Prosecutor Erstellen
+And I Automatisch
+Kaufmann Gesellschafter
+Diplom Ingenieur
+A. Konditorei
+company names:
+als Liquidator
+bisherige Unternehmen
+Persönlichhistender Gesellschafter
+München Stadt
+Vereinigten Staaten
+Ticos Systems

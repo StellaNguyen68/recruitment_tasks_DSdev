@@ -1,0 +1,26 @@
+Text 1:
+list the names of companies: Beispiel Corp GmbH;
+
+commercial register numbers: HRB 12 286;
+
+personal data:
+    Udo Martin, 19. 03.1945, 51234 Mainz; 
+    Frank Fischer, 01. 01. 1960, 32340 Oberaula, 
+    Eckart Gärtner, 27. 12. 1967, 55127 Mainz.; 
+
+function in a company: Vorsitzenden des Vorstandes ernannt;
+
+city of residence: Wiesbaden;
+
+Text 1:
+list the names of companies: Beispiel Zwei AG;
+
+commercial register numbers: HRB 12286;
+
+personal data:
+    Mathias, Tanja, Ober(Taunus), *04.05.1973,
+    Dr. Jung, Ole, Wiesbaden, *27.08.1999;
+
+function in a company: Vorstand;
+
+city of residence: Wiesbaden;
